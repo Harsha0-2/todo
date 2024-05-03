@@ -5,4 +5,4 @@ Project is created with:
 * CSS
 * JavaScript
 ## Live Demo
-[DEMO](https://todoapp-harsha0-2.netlify.app/)
+[TO-DO APP](https://todoapp-harsha0-2.netlify.app/)
